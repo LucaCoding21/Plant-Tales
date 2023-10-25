@@ -32,7 +32,7 @@ closebtn.addEventListener("click",function(){
   pop_up.style.display = "none";
 })
 
-const key = "sk-flFj6534a6b6b5a992640";
+const key = "sk-lTBg65342cce4eac12622";
 let plant = "sunflower";
 const searchInput = document.getElementById('searchInput');
 var requestOptions = {
